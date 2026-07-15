@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(178, 178, 178);
+    background-color: rgb(222, 222, 222);
 }
 
 h1 {
@@ -9,4 +9,13 @@ h1 {
 
 .titulo {
     color: black;
+}
+
+.botao {
+    background-color: orange;
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    display: inline-block;
 }
