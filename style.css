@@ -1,3 +1,12 @@
+body {
+    background-color: rgb(178, 178, 178);
+}
+
 h1 {
+    color: rgb(255, 166, 0);
     text-align: center;
+}
+
+.titulo {
+    color: black;
 }
