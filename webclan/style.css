@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(222, 222, 222);
+}
+
+.logo {
+    width: 60px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-radius: 10px;
+}
+
+.menuprincipal {
+    text-align: center;
+}
+.menuprincipal a{
+     background-color: rgb(255, 111, 0);
+    color: rgb(0, 0, 0);
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    display: inline-block;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.titulo-web {
+    color: rgb(255, 111, 0);
+}
+
+.fachada-da-loja {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 20px auto 0;
+    border-radius: 10px;
+}
